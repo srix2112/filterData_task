@@ -1,0 +1,6 @@
+[
+    { "name": "John Doe", "city": "Dallas", "category": "one", "type": "A", "active": false },
+    { "name": "Jane Smith", "city": "San Francisco", "category": "two", "type": "B", "active": true },
+    { "name": "Bob Johnson", "city": "Denver", "category": "one", "type": "C", "active": false }
+  ]
+  
